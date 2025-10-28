@@ -5,13 +5,15 @@ A visually elegant and fully responsive landing page built using **HTML**, **CSS
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🔥 Smooth animations and transitions
 - 📱 Fully responsive design for all screen sizes
 - 🎨 Custom styling with modern aesthetic
 - ⚡️ Lightweight and fast performance
 - 💡 Scroll-triggered effects with JavaScript
+hello  have made this
+helllloooooooooooooooooooogit
 
 ---
 
